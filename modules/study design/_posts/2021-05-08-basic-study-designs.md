@@ -47,4 +47,4 @@ In this study design, the researcher addresses both of the weaknesses from the S
 
 ![two-group-pre-post](../two-group-pre-post.png)
 
-This type of study can help in cases where the participants may change over time and the researcher wants to understand whether application of the independent variable affects the rate of change. For example, in a classroom, students are hopefully learning more about the course topic as the semester progresses
+This type of study can help in cases where the participants may change over time and the researcher wants to understand whether application of the independent variable affects the rate of change. For example, in a classroom, students are hopefully learning more about the course topic as the semester progresses.
