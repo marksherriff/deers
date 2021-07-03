@@ -1,5 +1,5 @@
 ---
-title: Qualitative vs. Quantitative Research
+Title: Qualitative vs. Quantitative Research
 ---
 
 # Qualitative vs. Quantitative Research
