@@ -15,9 +15,9 @@ __Today's Session - Designing a Research Question__
 * 2:45 PM EDT: Individual work: Do Worksheet #1 - Generating a Research Question
 * 3:00 PM EDT: Session Break for 15 minutes (refresh, work on stuff, whatever, but we’ll leave zoom meeting open)
 * 3:15 PM EDT: Break into tables to discuss your research questions and get feedback:
-    * Mark's Room - 
-    * Sarah's Room - 
-    * Jeff's Room - 
+    * Mark's Room - Mohammed, Joydeep
+    * Sarah's Room - Sarah, Shuyin, Shanon
+    * Jeff's Room - Ayana, Julie, Devorah, Mark
 * 3:45 PM EDT: Wrap up and discuss Tuesday's schedule and homework
 
 ## Homework for Tuesday

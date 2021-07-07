@@ -14,9 +14,9 @@ __Today's Session - Designing Your Study__
 * 2:30 PM EDT: Individual work: Do Worksheet #3 - Study Design
 * 2:45 PM EDT: Session Break for 15 minutes (refresh, work on stuff, whatever, but we’ll leave zoom meeting open)
 * 3:00 PM EDT: Break into tables to discuss your study design and get feedback:
-    * Mark's Room - 
-    * Sarah's Room - 
-    * Jeff's Room - 
+    * Mark's Room - Mohammed, Joydeep
+    * Sarah's Room - Sarah, Shuyin, Shanon
+    * Jeff's Room - Ayana, Julie, Devorah, Mark
 * 3:45 PM EDT: Wrap up and discuss Wednesday's schedule and homework
 
 ## Homework for Wednesday

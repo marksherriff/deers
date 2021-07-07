@@ -16,9 +16,9 @@ __Today's Session - Running Your Study__
 * 2:35 PM EDT: Work on Worksheet #5: Aligning Your Study
 * 2:50 PM EDT: Session Break for 15 minutes (refresh, work on stuff, whatever, but we’ll leave zoom meeting open)
 * 3:05 PM EDT: Break into NEW tables to get different feedback!  Present your study in an "elevator pitch" format
-    * Mark's Room - 
-    * Sarah's Room - 
-    * Jeff's Room - 
+    * Mark's Room - TBD
+    * Sarah's Room - TBD
+    * Jeff's Room - TBD
 * 3:45 PM EDT: Group comes back together to discuss presentation schedule for Thursday
 
 ## Homework for Thursday
