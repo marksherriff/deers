@@ -13,7 +13,7 @@ If you have any questions and need to get in contact with Jeff, Sarah, or Mark, 
 
 ## Zoom Link
 
-All meetings, including office hours and our daily sessions, will be held on the same Zoom link.  See your email for the link or ask in Slack.
+All meetings, including office hours and our daily sessions, will be held on the same Zoom link.  See your email for the link or the pinned post in the deers-2021 Slack channel.
 
 ## Workshop Schedule
 
@@ -44,5 +44,5 @@ See the days below for what we will cover each day, along with your homework!
 
 * We will primarily be using Zoom for synchronous content, YouTube for asynchronous lecture content, and Slack for general chat (outside of synchronous meetings).
 * The full YouTube playlist can be found [here](https://www.youtube.com/playlist?list=PLssZ8j_-esfCM4uWghAovxzgy_S154KlN).
-* For Zoom meetings, see the link above.
+* For Zoom meetings, see your email or the pinned post in the deers-2021 Slack channel.
 * To join the DEERS slack, see the invitation via email sent from Mark via Slack.
