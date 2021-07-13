@@ -17,7 +17,7 @@ __Today's Session - Designing Your Study__
     * Mark's Room - Mohammed, Joydeep, Mark, Alum:
     * Sarah's Room - Sarah, Shuyin, Shanon, Alum:
     * Jeff's Room - Ayana, Julie, Devorah, Alum:
-* 3:45 PM EDT: Wrap up and discuss Wednesday's schedule and homework
+* 3:50 PM EDT: Wrap up and discuss Wednesday's schedule and homework
 
 ## Homework for Wednesday
 

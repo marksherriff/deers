@@ -19,7 +19,7 @@ __Today's Session - Running Your Study__
     * Mark's Room - TBD
     * Sarah's Room - TBD
     * Jeff's Room - TBD
-* 3:45 PM EDT: Group comes back together to discuss presentation schedule for Thursday
+* 3:50 PM EDT: Group comes back together to discuss presentation schedule for Thursday
 
 ## Homework for Thursday
 
