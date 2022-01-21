@@ -2,7 +2,6 @@
 layout: index
 published: true
 ---
-
 __We are now accepting applications for DEERS 2022!__
 
 [Apply for the DEERS 2022 Cohort](https://ncsu.qualtrics.com/jfe/form/SV_9TeZHLzDgEux3gx)
