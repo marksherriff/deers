@@ -2,7 +2,7 @@
 layout: index
 published: true
 ---
-__We are now accepting applications for DEERS 2022!  The deadline for applications is April 15th.  Notification of participation will be toward the end of April/beginning of May.__
+__We are now accepting applications for DEERS 2022!  The deadline for applications is May 1.  Notification of participation will be toward the middle of May.__
 
 [Apply for the DEERS 2022 Cohort](https://ncsu.qualtrics.com/jfe/form/SV_9TeZHLzDgEux3gx)
 
