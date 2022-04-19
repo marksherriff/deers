@@ -5,7 +5,7 @@ title: DEERS Application
 
 # DEERS Application 
 
-<a class="btn btn-primary" href="https://ncsu.qualtrics.com/jfe/form/SV_9TeZHLzDgEux3gx?Q_JFE=qdg">Apply for DEERS 2023</a>
+<a class="btn btn-primary" href="https://ncsu.qualtrics.com/jfe/form/SV_9TeZHLzDgEux3gx?Q_JFE=qdg">Click HERE to Apply for DEERS 2023!</a>
 
 Interested in running an empirical CS education research project and want to work with other like-minded researchers?
 
