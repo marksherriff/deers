@@ -2,8 +2,13 @@
 layout: index
 published: true
 ---
+__We are now accepting applications for DEERS 2022!  The deadline for applications is May 1.  Notification of participation will be toward the middle of May.__
 
-__NOTE: This site is currently under construction for use with the 2021 DEERS Workshop in July.__
+[Apply for the DEERS 2022 Cohort](https://ncsu.qualtrics.com/jfe/form/SV_9TeZHLzDgEux3gx)
+
+* The 2022 Summer Workshop will take place the week of July 11-15, 2022.
+* Currently, we are evaluating whether we will be in-person (at the University of Virginia in Charlottesville, VA) or fully virtual.
+* We will take into account the desires of those that apply and are accepted in our decision, in addition to current travel guidelines and restrictions from UVA and other institutions.
 
 Interested in running an empirical CS education research project and not sure how to get started with a research project in your classroom?  
 

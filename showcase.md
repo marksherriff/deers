@@ -22,8 +22,8 @@ All attendees at SIGCSE TS 2022 are encouraged to come to the showcase to see th
 
 __Friday, March 4__
 
-* 6:00pm - 7:00pm: Private DEERS Alumni Reception
-* 7:00pm - 8:30pm: DEERS Showcase Poster Session (Open to all SIGCSE TS attendees)
+* 6:00pm - 7:30pm: DEERS Showcase Poster Session
+* 7:30pm - 8:30pm: Private DEERS Alumni Reception
 
 ## Posters and Presenters
 
