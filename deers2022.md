@@ -33,8 +33,8 @@ _Thursday's Schedule is "everyone gives their presentation until we leave around
 ## Daily Topics
 
 * [Before Coming to DEERS 2022...](/deers2022-beforecoming)
-* Monday, July 11 - Travel Day and Arrive at Oakhurst Inn
-* [Tuesday: Study Design / IRB](/deers2021-tuesday)
+* Monday, July 11 - Travel Day and Arrive at Oakhurst Inn (See Info Below)
+* [Tuesday: Designing Your Research Question](/deers2022-tuesday)
 * [Wednesday: Running Your Study](/deers2021-wednesday)
 * [Thursday: Project Presentations](/deers2021-thursday)
 
