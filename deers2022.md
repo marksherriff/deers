@@ -35,8 +35,8 @@ _Thursday's Schedule is "everyone gives their presentation until we leave around
 * [Before Coming to DEERS 2022...](/deers2022-beforecoming)
 * Monday, July 11 - Travel Day and Arrive at Oakhurst Inn (See Info Below)
 * [Tuesday: Designing Your Research Question](/deers2022-tuesday)
-* [Wednesday: Running Your Study](/deers2021-wednesday)
-* [Thursday: Project Presentations](/deers2021-thursday)
+* [Wednesday: Running Your Study](/deers2022-wednesday)
+* [Thursday: Project Presentations](/deers2022-thursday)
 
 ## Workshop Housing and Location
 
@@ -61,3 +61,5 @@ __Meals__
 * A light breakfast (muffins, etc.) will be in the conference room each morning.
 * Lunch will be provided in Rice Hall on Tuesday and Wednesday (Thursday will be on your own).  We will have working lunches.
 * Dinners will be on your own, but we will help organize groups during the day for folks that are interested in eating together.  There are restaurants withing walking distance of the Oakhurst and there is a free trolley that can take you to Charlottesville’s Downtown Mall (a pedestrian walking area with restaurants and shops).
+
+[More information about Charlottesville and Map from Oakhurst to Rice Hall](https://docs.google.com/document/d/1OQy0r0M3XNWNWPs21MoU7JmGyLnh0Bbc8QgWU_XCpnk/edit?usp=sharing)
