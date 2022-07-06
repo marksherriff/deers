@@ -32,10 +32,32 @@ _Thursday's Schedule is "everyone gives their presentation until we leave around
 
 ## Daily Topics
 
-See the days below for what we will cover each day, along with your homework!
-
 * [Before Coming to DEERS 2022...](/deers2022-beforecoming)
 * [Monday: Designing a Research Question / Literature Reviews](/deers2021-monday)
 * [Tuesday: Study Design / IRB](/deers2021-tuesday)
 * [Wednesday: Running Your Study](/deers2021-wednesday)
 * [Thursday: Project Presentations](/deers2021-thursday)
+
+## Workshop Housing and Location
+
+__The Oakhurst Inn__
+
+* 100 Oakhurst Circle, Charlottesville, Virginia 22903 / 434-872-0100
+* Uber and Lyft are active in Charlottesville or taxis can be found right outside the main terminal. More information at [http://www.gocho.com/to-from/taxi/](http://www.gocho.com/to-from/taxi/).
+* You will be reimbursed for your trip by your stipend and do not need to keep receipts.
+* Our NSF grant will cover the bill for your room and you should be able to just give them your name to check in.  You may need to give a credit card for incidentals.
+* Each morning, a group will walk over to Rice Hall (the UVA CS building) together.  Meet just outside the Oakhurst Cafe around 8:15 each morning.
+* Walking distance from the Oakhurst Inn to Rice Hall is approximately 0.3 miles.  If you need assistance getting to and from Rice Hall, please call Mark Sherriff.
+* Our main conference room for the workshop will be Rice Hall 442.
+
+__WiFi__
+
+* The Oakhurst provides free WiFi.  See the front desk for more info.
+* UVA is an eduroam participating institution if that option is available to you.  Otherwise, connect to the “UVA Guest WiFi” network and open [http://in.virginia.edu/guest](http://in.virginia.edu/guest).
+* If you do not have access to what you need with guest WiFi, a sponsor code can be generated for you.
+
+__Meals__
+
+* A light breakfast (muffins, etc.) will be in the conference room each morning.
+* Lunch will be provided in Rice Hall on Tuesday and Wednesday (Thursday will be on your own).  We will have working lunches.
+* Dinners will be on your own, but we will help organize groups during the day for folks that are interested in eating together.  There are restaurants withing walking distance of the Oakhurst and there is a free trolley that can take you to Charlottesville’s Downtown Mall (a pedestrian walking area with restaurants and shops).
