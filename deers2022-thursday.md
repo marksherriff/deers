@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Thursday, July 15 - DEERS 2021
+title: Thursday, July 14 - DEERS 2021
 ---
 
-# Thursday, July 15 - DEERS 2021
+# Thursday, July 14 - DEERS 2021
 
 ## Today's Schedule
 
