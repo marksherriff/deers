@@ -1,34 +1,26 @@
 ---
 layout: page
-title: Thursday, July 14 - DEERS 2022
+title: Thursday, July 15 - DEERS 2021
 ---
 
-# Thursday, July 14 - DEERS 2022
+# Thursday, July 15 - DEERS 2021
 
 ## Today's Schedule
 
-__Study Presentations__
+__Today's Session - Study Presentations__
 
-* 11:00 AM - 12:00 PM EDT: Open Office Hours / Morning Coffee - Come ask any questions you want to Sarah, Jeff, and Mark and hang out with other attendees!  (optional)
-* 2:00 PM EDT: Welcome back and questions and group picture!
-* 2:10 PM EDT: Presentations
-    * Shanon
-    * Devorah
-    * Mohammed
-    * Ayana
-    * Julie
-* Session Break for 10 minutes (refresh, work on stuff, whatever, but we’ll leave zoom meeting open)
-    * Mark
-    * Sarah
-    * Joydeep
-    * Shuyin
-* Wrap up and meet with mentors to schedule next individual meeting
+8:30 AM - 9:00 AM: Light Breakfast in Rice 442      
+9:00 AM - 9:15 AM: Questions and group picture!     
+9:15 AM - 10:15 AM: Presentations    
+10:15 AM - 10:30 AM Break    
+10:30 AM - 11:00 AM: Presentations    
+11:30 AM: Wrap up and meet with mentors to schedule next individual meeting      
 
 ## Homework
 
 * Arrange your first meeting with your mentor!
-    * Mark's Group - Mohammed, Joydeep, Mark
-    * Sarah's Group - Sarah, Shuyin, Shanon
-    * Jeff's Group - Ayana, Julie, Devorah
+    * Mark's Group - TBD
+    * Sarah's Group - TBD
+    * Jeff's Group - TBD
 
-[Back to DEERS 2021 Main Page](/deers2021)
+[Back to DEERS 2022 Main Page](/deers2022)

@@ -13,8 +13,6 @@ If you have any questions and need to get in contact with Jeff, Sarah, or Mark, 
 
 ## Workshop Schedule and Travel Information
 
-[Workshop Schedule and Travel Information](https://docs.google.com/document/d/1pzGyaVScD_gZQGwStX3bWQeP88vs9NQ-C_y14Dv0wY0/edit?usp=sharing)
-
 __General Schedule for Tuesday and Wednesday__
 
 * 8:30 AM - 9:00 AM: Light Breakfast in Rice 442
