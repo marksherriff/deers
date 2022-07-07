@@ -15,7 +15,7 @@ __Designing Your Research Question__
 10:00 AM - 10:15 AM: Scholarly Teaching to SoTL (Sarah)    
 10:15 AM - 10:30 AM: Break    
 10:30 AM - 12:00 PM: How to Design a Research Question (Mark) + WORKSHEET 1    
-12:00 PM - 1:00 PM: Lunch & Work on Literature Review + WORKSHEET 2    
+12:00 PM - 1:00 PM: Working Lunch - Start Literature Review + WORKSHEET 2    
 During Lunch: Optional Tour of the University of Virginia    
 1:00 PM - 1:30 PM: Research Question Refinement (Individual Work)    
 1:30 PM - 2:30 PM: Evaluate Research Questions (Table Discussion)    

@@ -16,7 +16,7 @@ __Logistics and Refinement__
 10:15 AM - 10:30 AM: Break    
 10:30 AM - 11:30 AM: Work on Data Collection & Instruments (Individual Work) + WORKSHEET 4    
 11:30 AM - 12:00 PM: Aligning Your Study Design (Mark) + WORKSHEET 5    
-12:00 PM - 1:00 PM: Lunch & Work on Your Study Design    
+12:00 PM - 1:00 PM: Working Lunch - Study Design and Meet w/ Mentor    
 1:00 PM - 1:30 PM: Study Design Refinement (Individual Work)    
 1:30 PM - 2:30 PM: Evaluate Study Design (Table Discussion)    
 2:30 PM - 2:45 PM: Break    
